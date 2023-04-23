@@ -19,10 +19,15 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/william-dandrea/](https://www.linkedin.com/in/william-dandrea/)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dandreawilliam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dandreawilliam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/william-dandrea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william-dandrea" height="30" width="40" /></a>
+<a href="https://medium.com/@williapile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@williapile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
