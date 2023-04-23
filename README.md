@@ -21,6 +21,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Let’s talk about the concepts of the AGILE method](https://williapile.medium.com/lets-talk-about-the-concepts-of-the-agile-method-5d81227aa12?source=rss-1a3d0455494------2)
+- [Everything you need to know about the Agile method](https://williapile.medium.com/everything-you-need-to-know-about-the-agile-method-125f33f9dc7f?source=rss-1a3d0455494------2)
+- [Comment créer une liste personnalisée sous Android Studio grâce au Recycler](https://williapile.medium.com/comment-cr%C3%A9er-une-liste-personnalis%C3%A9e-sous-android-studio-gr%C3%A2ce-au-recycler-809709107029?source=rss-1a3d0455494------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
