@@ -22,7 +22,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [The 18 different channels of traction that startups: A Lesson from History](https://williapile.medium.com/the-18-different-channels-of-traction-that-startups-a-lesson-from-history-396105bf7fcd?source=rss-1a3d0455494------2)
-- [Creational design patterns to know to succeed in a tech job interview](https://williapile.medium.com/creational-design-patterns-to-know-to-succeed-in-a-tech-job-interview-8011350b90ff?source=rss-1a3d0455494------2)
+- [Creational design patterns to know to succeed in a tech job interview](https://mobileappcircular.com/creational-design-patterns-to-know-to-succeed-in-a-tech-job-interview-8011350b90ff?source=rss-1a3d0455494------2)
 - [How to create services and controllers in NestJS modules with command line?](https://williapile.medium.com/how-to-create-services-and-controllers-in-nestjs-modules-with-command-line-2a4af424fdb4?source=rss-1a3d0455494------2)
 - [How to create a WordPress website with docker and docker-compose?](https://williapile.medium.com/how-to-create-a-wordpress-website-with-docker-and-docker-compose-efd3eb74c3e?source=rss-1a3d0455494------2)
 <!-- BLOG-POST-LIST:END -->
