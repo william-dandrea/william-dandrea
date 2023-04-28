@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I’m just starting out, what can I sell to make money in 2023?](https://williapile.medium.com/im-just-starting-out-what-can-i-sell-to-make-money-in-2023-7057badc5abd?source=rss-1a3d0455494------2)
 - [Get more clients with this 18 different channels of traction &lpar;SaaS, Startup …&rpar;](https://mobileappcircular.com/the-18-different-channels-of-traction-that-startups-a-lesson-from-history-396105bf7fcd?source=rss-1a3d0455494------2)
 - [Creational design patterns to know to succeed in a tech job interview](https://mobileappcircular.com/creational-design-patterns-to-know-to-succeed-in-a-tech-job-interview-8011350b90ff?source=rss-1a3d0455494------2)
 - [How to create services and controllers in NestJS modules with command line?](https://williapile.medium.com/how-to-create-services-and-controllers-in-nestjs-modules-with-command-line-2a4af424fdb4?source=rss-1a3d0455494------2)
-- [How to create a WordPress website with docker and docker-compose?](https://williapile.medium.com/how-to-create-a-wordpress-website-with-docker-and-docker-compose-efd3eb74c3e?source=rss-1a3d0455494------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
