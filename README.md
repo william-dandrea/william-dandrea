@@ -21,7 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate framework to evaluate a startup idea](https://medium.com/technical-excellence/ultimate-framework-to-evaluate-a-startup-idea-de4637fae1da?source=rss-1a3d0455494------2)
+- [Ultimate framework to evaluate a startup idea](https://williapile.medium.com/ultimate-framework-to-evaluate-a-startup-idea-de4637fae1da?source=rss-1a3d0455494------2)
 - [Exploring the Three Paths of Entrepreneurship: Find Your Art Form](https://medium.com/illumination/exploring-the-three-paths-of-entrepreneurship-find-your-art-form-e1b1cdbd39ff?source=rss-1a3d0455494------2)
 - [The Ultimate Guide to Find Profitable SaaS Ideas: 7 Tried-and-True Approaches](https://mobileappcircular.com/the-ultimate-guide-to-creating-profitable-saas-ideas-7-tried-and-true-approaches-9d22b86a724e?source=rss-1a3d0455494------2)
 - [I’m just starting out, what can I sell to make money in 2023?](https://williapile.medium.com/im-just-starting-out-what-can-i-sell-to-make-money-in-2023-7057badc5abd?source=rss-1a3d0455494------2)
