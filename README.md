@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT — How to bypass the  “message you submitted was too long” message](https://medium.com/illumination/chatgpt-how-to-bypass-the-message-you-submitted-was-too-long-message-185b5f614152?source=rss-1a3d0455494------2)
 - [Demystifying Opportunities: Work and Focus are the Keys](https://williapile.medium.com/demystifying-opportunities-work-and-focus-are-the-keys-3d1dd3e5c883?source=rss-1a3d0455494------2)
 - [A Proven 10-Step Strategy to Secure Your First Five Customers](https://williapile.medium.com/a-proven-10-step-strategy-to-secure-your-first-five-customers-53cfa8c6c05?source=rss-1a3d0455494------2)
 - [Ultimate framework to evaluate a startup idea](https://williapile.medium.com/ultimate-framework-to-evaluate-a-startup-idea-de4637fae1da?source=rss-1a3d0455494------2)
-- [Exploring the Three Paths of Entrepreneurship: Find Your Art Form](https://medium.com/illumination/exploring-the-three-paths-of-entrepreneurship-find-your-art-form-e1b1cdbd39ff?source=rss-1a3d0455494------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
