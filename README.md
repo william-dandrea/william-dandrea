@@ -21,8 +21,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT &amp; DALL-E: Secret options that will change your life](https://medium.com/illuminations-mirror/chatgpt-dall-e-secret-options-that-will-change-your-life-0bfc49753a83?source=rss-1a3d0455494------2)
-- [ChatGPT — How to bypass the  “message you submitted was too long” message](https://williapile.medium.com/chatgpt-how-to-bypass-the-message-you-submitted-was-too-long-message-185b5f614152?source=rss-1a3d0455494------2)
+- [ChatGPT &amp; DALL-E: Secret options that will change your life](https://blog.startupstash.com/chatgpt-dall-e-secret-options-that-will-change-your-life-0bfc49753a83?source=rss-1a3d0455494------2)
+- [ChatGPT — How to bypass the  “message you submitted was too long” message](https://blog.startupstash.com/chatgpt-how-to-bypass-the-message-you-submitted-was-too-long-message-185b5f614152?source=rss-1a3d0455494------2)
 - [Demystifying Opportunities: Work and Focus are the Keys](https://williapile.medium.com/demystifying-opportunities-work-and-focus-are-the-keys-3d1dd3e5c883?source=rss-1a3d0455494------2)
 - [A Proven 10-Step Strategy to Secure Your First Five Customers](https://williapile.medium.com/a-proven-10-step-strategy-to-secure-your-first-five-customers-53cfa8c6c05?source=rss-1a3d0455494------2)
 <!-- BLOG-POST-LIST:END -->
