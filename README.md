@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/dandreawilliam" target="blank"><img src="https://img.shields.io/twitter/follow/dandreawilliam?logo=twitter&style=for-the-badge" alt="dandreawilliam" /></a> </p>
 
-- 🔭 I’m currently working on [Accenture VSF Metavers](https://virtualshowfloor.cloud/)
+- 🔭 I’m currently working at Accenture on their [Accenture VSF Metavers](https://virtualshowfloor.cloud/)
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently developping a new SaaS [TOEIC-Mastery](https://toeic-mastery.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/orgs/william-dandrea-study-software-courses/repositories](https://github.com/orgs/william-dandrea-study-software-courses/repositories)
 
