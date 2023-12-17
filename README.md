@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Software Architect Engineer (Backend and Devops)</h1>
-<h3 align="center">A passionate developer from France. My new hobby is blockchain development and I am currently learning the smart contract development</h3>
+<h1 align="center">Hi 👋, I'm Software Architect Engineer</h1>
+<h3 align="center">A passionate developer from France.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=william-dandrea&label=Profile%20views&color=0e75b6&style=flat" alt="william-dandrea" /> </p>
 
