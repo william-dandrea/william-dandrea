@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Software Architect Engineer</h1>
-<h3 align="center">A passionate developer from France.</h3>
+<h3 align="center">As a former DevOps engineer, I missed code, so now I'm on the other side of the force: around everything that revolves around NextJS. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=william-dandrea&label=Profile%20views&color=0e75b6&style=flat" alt="william-dandrea" /> </p>
 
